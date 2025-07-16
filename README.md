@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron Logo" width="45" height="45" /> Elmer Leonel Marquez Argueta
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron Logo" width="30" height="30" /> Elmer Leonel Marquez Argueta
  Elmer Leonel Marquez Argueta
 
 **B2B Cloud & Cybersecurity Technical Products | Cloud Engineer | Software Engineer (aspiring)**
