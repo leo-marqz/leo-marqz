@@ -18,6 +18,20 @@
   - 🔄 **CI/CD pipelines** and **DevOps practices**
 - 📘 Also exploring **Java**, **SQL**, and **Node.js with Express** to strengthen my backend skills.
 
+### 🧰 Technologies & Skills
+
+#### 🖥️ Programming Languages & Frameworks
+- `C#`, `Python`, `Java`, `Node.js`, `JavaScript`, `SQL`
+
+#### 🧱 Backend & Architecture
+- `Entity Framework Core`, `SOLID`, `Design Patterns`, `Microservices (basic)`, `REST APIs`, `JWT`
+
+#### 💻 Frontend
+- `React.js (basic)`, `Razor Pages`, `Bootstrap`
+
+#### ☁️ Cloud & DevOps
+- `AWS`, `Azure`, `Docker`, `Git`, `GitHub Actions`, `Terraform (basic)`, `Bash scripting`
+
 ---
 
 ### 💬 Let’s Connect
