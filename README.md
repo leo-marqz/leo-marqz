@@ -1,7 +1,28 @@
-## Welcome to My Profile
+## 👨‍💻 Welcome to My Developer Profile
 
-- 🔭 I’m currently working at Tigo El Salvador as a B2B Cloud and Cybersecurity Technical Products Specialist
-- 🌱 I’m currently learning Cloud Computing, express with node.js, and enhancing my skills in AWS and microservices
-- 💬 Ask me about anything related to cloud security, .NET development, and ethical hacking
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leomarqz)
-- 😄 Pronouns: leomarqz or elmarqz
+🚀 **Aspiring .NET Software Engineer | Cloud Enthusiast**
+
+---
+
+### 🧠 About Me
+
+- 💼 I currently work at **Tigo El Salvador** as a **B2B Cybersecurity & Cloud Technical Specialist**.
+- 🌱 I’m actively learning and building with:
+  - ⚙️ **C# and ASP.NET Core** (Web APIs & microservices)
+  - 🧱 **Entity Framework**, **SOLID principles**, and **design patterns**
+  - 🌐 **React.js** and **RESTful services**
+  - 🐳 **Docker** for containerized development
+  - ☁️ **AWS** & **Azure** cloud services for deployment and scaling
+- 🧪 Gaining experience in:
+  - 🧰 **Unit testing** with xUnit and Moq
+  - 🔄 **CI/CD pipelines** and **DevOps practices**
+- 📘 Also exploring **Java**, **SQL**, and **Node.js with Express** to strengthen my backend skills.
+
+---
+
+### 💬 Let’s Connect
+
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/leomarqz)
+- 👨‍💻 You can call me `leomarqz`, `elmarqz`, or `::crack::night::`
+
+---
