@@ -62,7 +62,7 @@
   <a href="mailto:leomarqz2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/leomarqz" target="_blank">
+  <a href="https://github.com/leo-marqz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
